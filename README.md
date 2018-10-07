@@ -1,7 +1,12 @@
 # Wine Grape Variety Classifier
 
 ### A random forest classifer which uses data from Kaggle.com (https://www.kaggle.com/zynicide/wine-reviews)
-### Libraries used: Pandas, Numpy, matplotlib, seaborn, scikitlearn
+### Libraries used: 
+- pandas 
+- numpy 
+- matplotlib 
+- seaborn 
+- scikitlearn
 
 ## Files in repository:
 - wine.html: html representation of Jupyter Notebook
