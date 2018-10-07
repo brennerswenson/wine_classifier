@@ -17,8 +17,10 @@
 - seaborn 
 - scikitlearn
 
-## Regarding missing data:
-- After one-hot encoding categorical variables, all missing data were imputed using the respective feature's mean and the whole dataframe scaled using StandardScaler
+## Regarding missing data and dropped columns:
+- After one-hot encoding categorical variables, all missing data were imputed using the respective feature's mean and the whole dataframe scaled using StandardScaler. 
+- I dropped the `Description` column as I was not using natural language processing. I dropped the `region 2` as it had a high proportion of NaNs. 
+- I dropped `taster_name`, `taster_twitter_handle`, and `title` as they were not relevant to the questions I posed and were not consistent between the two datasets I concatenated. 
 
 ## Files in repository:
 - wine.html: html representation of Jupyter Notebook
