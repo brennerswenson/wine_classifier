@@ -17,6 +17,9 @@
 - seaborn 
 - scikitlearn
 
+## Regarding missing data:
+- After one-hot encoding categorical variables, all missing data were imputed using the respective feature's mean and the whole dataframe scaled using StandardScaler
+
 ## Files in repository:
 - wine.html: html representation of Jupyter Notebook
 - wine.ipynb: Jupyter Notebook used for analysis
