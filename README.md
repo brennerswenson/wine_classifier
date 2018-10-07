@@ -1,5 +1,8 @@
 # Wine Grape Variety Classifier
 
+# POST ON MEDIUM REGARDING FINDINGS
+- https://medium.com/@brenner.swenson/predicting-expensive-wine-grape-varieties-65d92287b38d
+
 ### A random forest classifer which uses data from Kaggle.com 
 - (https://www.kaggle.com/zynicide/wine-reviews)
 
