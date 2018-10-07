@@ -2,6 +2,11 @@
 
 ### A random forest classifer which uses data from Kaggle.com 
 - (https://www.kaggle.com/zynicide/wine-reviews)
+
+
+### Motivations for projects
+- I've always loved wine and wanted to know which characteristics are the most important in determining the grape variety in a classifier model. Also I wanted to know the general descriptive statistics with aggregate functions.
+
 ### Libraries used: 
 - pandas 
 - numpy 
