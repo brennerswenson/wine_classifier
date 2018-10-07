@@ -1,6 +1,7 @@
 # Wine Grape Variety Classifier
 
-### A random forest classifer which uses data from Kaggle.com (https://www.kaggle.com/zynicide/wine-reviews)
+### A random forest classifer which uses data from Kaggle.com 
+- (https://www.kaggle.com/zynicide/wine-reviews)
 ### Libraries used: 
 - pandas 
 - numpy 
